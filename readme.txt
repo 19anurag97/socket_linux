@@ -1,4 +1,6 @@
 Socket program on Linux m/c.(//for Windows winsock library.)
+The ss command is used to dump socket statistics.
+# ss -tulpn
 
 Two types of Client To Send messages :
 
